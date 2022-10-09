@@ -1,0 +1,49 @@
+a {
+    text-decoration: none;
+    color:antiquewhite;
+    font-size: 30px;
+    letter-spacing: 0px;
+    margin-right: 100px;  
+}
+
+.header {
+    width: 100%;
+    min-height: 100vh;
+    background-image: url(../RESOURCE/img/BANNER.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.text-header {
+    min-height: 100vh;
+    color:black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    align-items: flex-end;
+    
+}
+
+.texto-banner {
+    font-size: 30px;
+}
+
+#section {
+    font-size: 30px;
+    text-shadow: 2px 2px 2px rgb(24, 23, 23);
+}
+
+.centrar-titulo {
+   text-align: center ;
+}
+
+body {
+    background-color: white;
+    /background-color: rgb(231, 174, 216);/
+    margin: 0;
+}
+
+footer {
+border: 5px solid gray;
+}
